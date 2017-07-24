@@ -1,17 +1,14 @@
-# Quadratic Equations Solver
+# Решатель квадратных уравнений
 
-[TODO. There will be project description]
+Скрипт quadratic_equation.py решает данное квадратное уравнение. 
 
-# How to Use
+# Как использовать
+Проверка скрипта выполняется с помощью tests.py. Там же находятся переменные, которые передаются в функцию `get_roots(a, b, c)` из скрипта quadratic_equation.py
 
-[TODO]
-
-# How to Launch Tests
-
+# Как запустить
+Для использования необходим интерпретатор Python версии 3.5.
+Вызываем скрипт через терминал:
 ```bash
 python tests.py
 ```
 
-# Project Goals
-
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
